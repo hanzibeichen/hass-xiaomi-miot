@@ -194,6 +194,7 @@ TRANSLATION_LANGUAGES = {
         'motion_sensor': {
             'motion sensor': '运动侦测',
             'motion sensor illumination': '光照度',
+            'motion sensor no motion duration': '无移动状态持续时间',
         },
 
         'occupancy_sensor': {
